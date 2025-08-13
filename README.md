@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kamal Kumar Kolisetty</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9shg3Qx18Qc1J4d4y/giphy.gif" alt="Waving" width="100"/>
+  <img src="https://media.giphy.com/media/hvRJp0j6sWnL4gNfW3/giphy.gif" alt="Waving" width="100"/>
 </p>
 
 <p align="center">
@@ -22,6 +22,33 @@
 
 ---
 
+## 🌟 Some of My Notable Projects
+
+Here are a few projects I'm particularly proud of. You can find all of my work on the **Repositories** tab above!
+
+### 📍 DestNotify - ALERTS THAT MOVE WITH YOU
+A feature-packed **Progressive Web App (PWA)** that provides smart, location-based alarms and real-time alerts. It combines **Google Maps API** for precision with the **Gemini API** for AI-driven recommendations on food, movies, and local tips, all while ensuring you never miss a stop again.
+* **Tech Stack**: JavaScript, PWA, Google Maps API, Gemini API, EmailJS
+* **[View on GitHub](https://github.com/kamalkolisetty/DestNotify)**
+* **[Live App](https://destnotify-prod-v2.netlify.app/)**
+
+---
+
+### ✍️ windowsToo - An AI-Powered Math Solver
+This project is an interactive web app for solving handwritten mathematical expressions. It uses a **React + Vite** frontend with a **FastAPI + Gemini AI** backend to interpret and solve drawings on a canvas, then renders the solutions beautifully with **MathJax**.
+* **Tech Stack**: React.js, Vite, TypeScript, Python, FastAPI, Google Gemini AI, MathJax
+* **[View on GitHub](https://github.com/kamalkolisetty/kamal-windowsToo)**
+* **[Watch the Demo](https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view)**
+
+---
+
+### 📚 BookWorm's Paradise - A MERN Stack Book Store
+A full-stack application built using the **MERN stack** for managing and displaying courses or books. It features a secure user authentication system with **bcrypt.js** for password hashing and a robust **Node.js/Express** backend with **MongoDB** for data persistence.
+* **Tech Stack**: React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose
+* **[View on GitHub](https://github.com/kamalkolisetty/BookStore)**
+
+---
+
 ### 💻 My Technical Toolbox
 
 <p align="center">
@@ -31,28 +58,10 @@
 * **Programming Languages**: Python, JavaScript, Java, C, C++, SQL
 * **Frameworks & Libraries**: React.js, Node.js (Express.js), Flask
 * **Styling**: HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design
-* **Databases**: MySQL (Query Optimization, Schema Design), MongoDB (Document Modeling)
+* **Databases**: MySQL (Query Optimization), MongoDB (Document Modeling)
 * **Developer Tools**: Git, GitHub, VS Code, WordPress
 * **Fundamentals**: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Computer Networks
 * **Additional Skills**: Machine Learning, Data Analysis (MS Excel, Pivot Tables)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Key Technologies | Highlights |
-| :--- | :--- | :--- |
-| **[DestNotify](https://github.com/kamalkolisetty/DestNotify)** | JavaScript, PWA, Google Maps API, Gemini API | Built a Progressive Web App (PWA) delivering real-time location-based alerts, reducing missed stops by 90% in user testing. |
-| **[MathGen AI](https://github.com/kamalkolisetty/kamal-windowsToo)** | React+Vite+TS, FastAPI, Gemini API | Engineered an AI-powered web app for handwritten equation solving, achieving <1-second response time and 90% rendering accuracy. |
-| **[BookWorm's Paradise](https://github.com/kamalkolisetty/BookStore)** | React, Node.js, Express, MongoDB, JWT | Developed a secure, user-friendly app with a 95% satisfaction rate, optimizing MongoDB queries by 40%. |
-
----
-
-### ✨ Achievements & Certifications
-
-* Top 5% ranking (out of 32,096 peers) in **NPTEL Cloud Computing**.
-* Ranked **986 globally** in the Smart Interviews coding course (out of 31,810 participants).
-* Certifications from **Accenture**, **IBM**, **Google**, and **Stanford University**, specializing in Data Analytics and Machine Learning.
 
 ---
 
@@ -62,3 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kamalkumarkolis1&show_icons=true&theme=onedark&hide_border=true" alt="Kamal's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkumarkolis1&theme=onedark&hide_border=true" alt="Kamal's GitHub streak" />
 </p>
+
+---
