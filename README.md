@@ -5,6 +5,7 @@
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 20px;">
 🚀 Hey there! I'm a brand new <b>BTech grad in Computer Science</b> bringing energy and creativity to every project. From <i>AI-powered math solvers</i> to <i>travel-smart apps</i>, my code is all about making life smarter (and cooler!).
 </div>
+<br><br>
 
 <div style="background-color: #16213e; padding: 10px; border-radius: 10px; margin-top: 10px;">
 <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
@@ -93,7 +94,7 @@ Drop me a line: 📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarko
 </div>
   <br>
 
-<img src="[https://media.tenor.com/YDns1kCTW5sAAAAi/peahc-and-goma-hug.gif](https://media.tenor.com/KBHL5x5GUNcAAAAm/assemble-team.webp)" alt="Peach & Goma Hug" width="380"/>
+<img src="https://media.tenor.com/YDns1kCTW5sAAAAi/peahc-and-goma-hug.gif" alt="Peach & Goma Hug" width="380"/>
 
 ## 📊 GitHub Stats
 
@@ -108,7 +109,7 @@ Drop me a line: 📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarko
 <img src="https://komarev.com/ghpvc/?username=kamalkolisetty&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
 <hr>
-<img src="[https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif](https://media.tenor.com/SG0h7L2MCXQAAAAm/bye-byebye.webp)" alt="Team Vibes" width="380"/>
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Team Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
 Thanks for visiting! Ready to team up and build something epic? 🌈 Let’s make some coding magic together!
