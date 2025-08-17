@@ -1,22 +1,82 @@
 <h1 align="center">🌟 Yo, I'm Kamal Kumar Kolisetty! 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="150"/>
+  <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="200"/>
 </p>
 
 <p align="center">
-  A fresh BTech grad in Computer Science, I’m a Data Science rockstar who builds solutions that light up the tech world! 🚀 From AI-powered math solvers to travel-smart apps, I turn big ideas into code that pops. Ready to dive into my tech world? Let’s create something awesome! 😎
+  🚀 A fresh BTech grad in <b>Computer Science</b>, I’m a <b>Data Science rockstar</b> who loves turning wild ideas into code that pops!  
+  From <i>AI-powered math solvers</i> to <i>travel-smart apps</i>, I create projects that light up the tech world.  
 </p>
 
+---
+
+## 🤗 About Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white面4J/giphy.gif" alt="Hi Vibes" width="150"/>
+  <img src="https://media.tenor.com/xr5Y7mItg8oAAAAi/peahc-and-goma-hug.gif" alt="Peach Hug" width="180"/>
 </p>
 
+- 🔥 Always curious, always building!  
+- 💡 Believe in solving problems with a spark of creativity.  
+- 🎶 Outside coding, I vibe with music, memes, and midnight brainstorming.  
+- 😎 Motto: *"Build fast, break limits, create impact!"*  
+
+---
+
+## 🌟 Featured Projects
 <p align="center">
-  A fresh BTech grad in Computer Science, I’m a Data Science rockstar who builds solutions that light up the tech world! 🚀 From AI-powered math solvers to travel-smart apps, I turn big ideas into code that pops. Ready to dive into my tech world? Let’s create something awesome! 😎
+  <img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Penguin" width="180"/>
 </p>
 
+### 📍 DestNotify - Your Travel Wingman
+<p align="center">
+  <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="320"/>
+</p>
+
+✨ Never miss your stop again! A **Progressive Web App** that pings you with location alerts and drops local tips using Google Maps + Gemini AI.  
+- Tech Stack: `JavaScript, PWA, Google Maps API, Gemini API, EmailJS`  
+- 🔗 [Code](https://github.com/kamalkolisetty/DestNotify) | [Live Demo](https://destnotify-prod-v2.netlify.app/)
+
+---
+
+### ✍️ WindowsToo - Math Made Easy
+<p align="center">
+  <img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="320"/>
+</p>
+
+🎨 Sketch math problems and let AI do the rest! Powered by **React + FastAPI + Gemini AI**, it explains solutions with MathJax.  
+- Tech Stack: `React.js, Vite, TypeScript, Python, FastAPI, Google Gemini AI, MathJax`  
+- 🔗 [Code](https://github.com/kamalkolisetty/kamal-windowsToo) | [Demo](https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view)
+
+---
+
+### 📚 BookWorm's Paradise - Your Book Haven
+<p align="center">
+  <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookStore" width="320"/>
+</p>
+
+📖 A **MERN stack app** for book lovers to build their digital bookshelf. Secure logins + sleek UI = Bookworm Heaven.  
+- Tech Stack: `React, Vite, Tailwind, Node.js, Express, MongoDB, Mongoose`  
+- 🔗 [Code](https://github.com/kamalkolisetty/BookStore)
+
+---
+
+## 🛠️ Tech Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills"/>
+</p>
+
+💻 **Languages:** Python, JavaScript, Java, C, C++, SQL  
+⚡ **Frameworks:** React.js, Express.js, Flask  
+🎨 **Styling:** Tailwind, Bootstrap, Responsive Design  
+📊 **Data:** MySQL, MongoDB  
+🔧 **Tools:** Git, GitHub, VS Code, WordPress  
+🧠 **Core:** DSA, OOP, Computer Networks  
+🤖 **Extras:** Machine Learning, Data Analysis (Excel, Pivot)  
+
+---
+
+## 💬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,68 +89,10 @@
   </a>
 </p>
 
----
-
-## 🎯 Why I Code
-I’m all about solving problems with a spark of creativity! From keeping travelers on track to making math a breeze, my projects are built to wow and make life easier. Jump in for a wild tech ride! 🔥
-
----
-
-## 🌟 My Epic Projects
 <p align="center">
-  <img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Vibes" width="150"/>
-</p>
-Check out my top creations below, or explore the full lineup at my [Repositories](https://github.com/kamalkolisetty?tab=repositories)!
-
-### 📍 DestNotify - Your Travel Wingman
-<p align="center">
-  <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="300"/>
-</p>
-Never miss a stop with this sleek Progressive Web App! It uses Google Maps API for pinpoint location alerts and Gemini API to serve up the best local eats, movies, and tips. Travel like a pro!  
-- Tech Stack: JavaScript, PWA, Google Maps API, Gemini API, EmailJS  
-- [Grab the Code](https://github.com/kamalkolisetty/DestNotify) | [Try It Live](https://destnotify-prod-v2.netlify.app/)
-
-### ✍️ WindowsToo - Math Made Easy
-<p align="center">
-  <img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="300"/>
-</p>
-Sketch a math problem, and this app solves it in a snap! With a fast React + Vite frontend and a smart FastAPI + Gemini AI backend, it delivers clean solutions using MathJax. Math just got fun!  
-- Tech Stack: React.js, Vite, TypeScript, Python, FastAPI, Google Gemini AI, MathJax  
-- [Unlock the Code](https://github.com/kamalkolisetty/kamal-windowsToo) | [Watch Demo](https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view)
-
-### 📚 BookWorm's Paradise - Your Book Haven
-<p align="center">
-  <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookWorm's Paradise" width="300"/>
-</p>
-A stylish MERN stack app for book lovers, with bcrypt.js for secure logins and MongoDB for a rock-solid backend. Browse and manage your digital bookshelf with flair!  
-- Tech Stack: React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose  
-- [Dive into Code](https://github.com/kamalkolisetty/BookStore)
-
----
-
-## 🛠️ My Tech Toolkit
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills"/>
-</p>
-
-- Languages I Master: Python, JavaScript, Java, C, C++, SQL  
-- Frameworks I Rock: React.js, Node.js (Express.js), Flask  
-- Styling Magic: HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design  
-- Data Skills: MySQL (Query Guru), MongoDB (Document Master)  
-- Tools I Love: Git, GitHub, VS Code, WordPress  
-- Core Strengths: Data Structures & Algorithms, OOP, Computer Networks  
-- Bonus Powers: Machine Learning, Data Analysis (Excel, Pivot Tables)
-
----
-
-## 💬 Let’s Connect!
-Got a cool idea or wanna talk code? Drop me a line:  
-📧 [kamalkumarkolisetty@gmail.com](mailto:kamalkumarkolisetty@gmail.com)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Team Coding" width="200"/>
+  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Teamwork" width="200"/>
 </p>
 
 <p align="center">
-  Thanks for visiting! Let’s team up and build something awesome! 🌈
+  💡 Thanks for stopping by! Let’s team up & build something awesome! 🌈  
 </p>
