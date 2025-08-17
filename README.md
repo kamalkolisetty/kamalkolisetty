@@ -93,6 +93,25 @@
   <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Teamwork" width="200"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalkolisetty&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkolisetty&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalkolisetty&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <p align="center">
   💡 Thanks for stopping by! Let’s team up & build something awesome! 🌈  
 </p>
