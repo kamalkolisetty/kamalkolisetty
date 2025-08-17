@@ -73,7 +73,7 @@ Dream of a cozy digital library? <b>BookWorm’s Paradise</b> delivers a slick b
 
 ## 🛠️ My Tech Toolkit
 
-<div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
+<div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 26px;">
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills"/>
 
 - **Languages:** Python, JavaScript, Java, C, C++, SQL  
