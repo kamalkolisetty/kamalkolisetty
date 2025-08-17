@@ -22,7 +22,7 @@
 ## 📌 Discover My Creations
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
-Curious what a tech enthusiast like me is building? ✨ Scroll through my <b>featured projects</b> below—these are my passion projects!
+Curious what I have been building? ✨ Scroll through my <b>featured projects</b> below—these are my passion projects!
   Dive even deeper on my <a href="https://github.com/kamalkolisetty?tab=repositories">GitHub Repositories</a>.
 </div>
 
@@ -109,7 +109,7 @@ Drop me a line: 📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarko
 <img src="https://komarev.com/ghpvc/?username=kamalkolisetty&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
 <hr>
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Team Vibes" width="380"/>
+<img src="https://media.tenor.com/JmFLq6j8DWEAAAAM/cat-sticker-line-sticker.gif" alt="Team Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
 Thanks for visiting! Ready to team up and build something epic? 🌈 Let’s make some coding magic together!
