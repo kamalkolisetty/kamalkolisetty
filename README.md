@@ -1,114 +1,112 @@
 # 🌟 Yo, I'm Kamal Kumar Kolisetty! 🌟
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 20px;">
-🚀 A fresh <b>BTech grad in Computer Science</b>, I’m a <b>Data Science rockstar</b> who loves turning wild ideas into code that pops! From <i>AI-powered math solvers</i> to <i>travel-smart apps</i>, I create projects that light up the tech world.
+🚀 Hey there! I'm a brand new <b>BTech grad in Computer Science</b> bringing energy and creativity to every project. From <i>AI-powered math solvers</i> to <i>travel-smart apps</i>, my code is all about making life smarter (and cooler!).
 </div>
 
 <div style="background-color: #16213e; padding: 10px; border-radius: 10px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kamalkumarkolisetty@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.hackerrank.com/kamalkumarkolis1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+<a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kamalkumarkolisetty@gmail.com">
+<img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.hackerrank.com/kamalkumarkolis1" target="_blank">
+<img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
 </div>
 
----
-
-## 📌 Know About My Projects
+## 📌 Discover My Creations
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
-Curious to see what I’ve been cooking up? ✨ Get ready to be blown away by my top projects below, or dive into my full tech arsenal at my <a href="https://github.com/kamalkolisetty?tab=repositories">GitHub Repositories</a>! 🚀
+Curious what a tech enthusiast like me is building? ✨ Scroll through my **featured projects** below—these are my passion projects! Dive even deeper on my <a href="https://github.com/kamalkolisetty?tab=repositories">GitHub Repositories</a>.
 </div>
 
----
+<img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Vibes" width="280"/>
 
 ## 🌟 Featured Projects
-
-<img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Vibes" width="280"/>
 
 ### 📍 DestNotify – Your Smart Travel Wingman
 
 <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Ever been lost in your playlist and missed your stop? 🎧 <b>DestNotify</b> is your ultimate travel buddy! This sleek Progressive Web App uses <b>Google Maps API</b> for pinpoint location alerts and <b>Gemini AI</b> to hook you up with the best local eats, trending movies, and quirky hangouts. Travel like a pro and soak in the journey!  
-<br>
-<b>Tech Stack:</b> JavaScript, PWA, Google Maps API, Gemini AI, EmailJS  
-👉 <a href="https://destnotify-prod-v2.netlify.app/">Try It Live</a> | <a href="https://github.com/kamalkolisetty/DestNotify">Grab the Code</a>
+Ever missed your stop vibing to music? <b>DestNotify</b> makes sure you never lose your way again! This sleek Progressive Web App pings location alerts, serves up local eats, and even suggests trending movies—with a pinch of AI magic.
+
+**Tech Stack:**  
+JavaScript  
+PWA  
+Google Maps API  
+Gemini AI  
+EmailJS  
+
+👉 [Try It Live](https://destnotify-prod-v2.netlify.app/)  
+👉 [Grab the Code](https://github.com/kamalkolisetty/DestNotify)
 </div>
 
----
-
-### ✍️ WindowsToo – Math Made Fun & Easy
+### ✍️ WindowsToo – Math, Solved. Fun Included!
 
 <img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Math doesn’t have to be a headache! With <b>WindowsToo</b>, you sketch a problem, and it solves it in a snap. Powered by a blazing <b>React + Vite</b> frontend and a smart <b>FastAPI + Gemini AI</b> backend, it delivers clean solutions with <b>MathJax</b>. Algebra, calculus, or geometry—math just got fun! 🪄  
-<br>
-<b>Tech Stack:</b> React.js, Vite, TypeScript, Python, FastAPI, Gemini AI, MathJax  
-👉 <a href="https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view">Watch Demo</a> | <a href="https://github.com/kamalkolisetty/kamal-windowsToo">Unlock the Code</a>
+Who says math can't be fun? With <b>WindowsToo</b>, you sketch a problem and instantly see the solution! Smooth React UI + AI-powered backend means clean answers for algebra, calculus, and more.
+
+**Tech Stack:**  
+React.js  
+Vite  
+TypeScript  
+Python  
+FastAPI  
+Gemini AI  
+MathJax  
+
+👉 [Watch Demo](https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view)  
+👉 [Unlock the Code](https://github.com/kamalkolisetty/kamal-windowsToo)
 </div>
 
----
-
-### 📚 BookWorm’s Paradise – A Digital Haven for Readers
+### 📚 BookWorm’s Paradise – The Ultimate Digital Bookshelf
 
 <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookWorm's Paradise" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Calling all book lovers! <b>BookWorm’s Paradise</b> is a stylish <b>MERN stack</b> app that lets you organize your digital bookshelf with flair. With a sleek <b>React + Tailwind</b> UI, secure <b>bcrypt.js</b> logins, and a robust <b>MongoDB</b> backend, it’s your cozy, modern library. 📚  
-<br>
-<b>Tech Stack:</b> React, Vite, Tailwind CSS, Node.js, Express, MongoDB, Mongoose  
-👉 <a href="https://github.com/kamalkolisetty/BookStore">Dive into Code</a>
-</div>
+Dream of a cozy digital library? <b>BookWorm’s Paradise</b> delivers a slick book organizing hub—secure logins, buttery React UI, and a robust backend for true bookworms.
 
----
+**Tech Stack:**  
+React  
+Vite  
+Tailwind CSS  
+Node.js  
+Express  
+MongoDB  
+Mongoose  
+
+👉 [Dive into Code](https://github.com/kamalkolisetty/BookStore)
+</div>
 
 ## 🛠️ My Tech Toolkit
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills"/>
 
-- <b>Languages I Master:</b> Python, JavaScript, Java, C, C++, SQL  
-- <b>Frameworks I Rock:</b> React.js, Node.js (Express.js), Flask  
-- <b>Styling Magic:</b> HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design  
-- <b>Data Skills:</b> MySQL (Query Guru), MongoDB (Document Master)  
-- <b>Tools I Love:</b> Git, GitHub, VS Code, WordPress  
-- <b>Core Strengths:</b> Data Structures & Algorithms, OOP, Computer Networks  
-- <b>Bonus Powers:</b> Machine Learning, Data Analysis (Excel, Pivot Tables)
+- **Languages:** Python, JavaScript, Java, C, C++, SQL  
+- **Frameworks:** React.js, Node.js (Express.js), Flask  
+- **Styling:** HTML5, CSS3, Tailwind, Bootstrap, Responsive Design  
+- **Data:** MySQL (Query Guru), MongoDB (Document Master)  
+- **Tools:** Git, GitHub, VS Code, WordPress  
+- **Strengths:** Data Structures & Algorithms, OOP, Computer Networks  
+- **Bonus:** Machine Learning, Data Analysis (Excel, Pivot Tables)
 </div>
 
----
-
-## 💬 Connect With Me
+## 💬 Let’s Connect!
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
-Got a wild idea or wanna geek out over code? Drop me a line:  
-📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarkolisetty@gmail.com</a>
-</div>
-
-<div style="background-color: #16213e; padding: 10px; border-radius: 10px; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kamalkumarkolisetty@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.hackerrank.com/kamalkumarkolis1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+Got an idea to share or want to geek out about tech?  
+Drop me a line: 📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarkolisetty@gmail.com</a>
 </div>
 
 <img src="https://media.tenor.com/YDns1kCTW5sAAAAi/peahc-and-goma-hug.gif" alt="Peach & Goma Hug" width="280"/>
-
----
 
 ## 📊 GitHub Stats
 
@@ -117,18 +115,14 @@ Got a wild idea or wanna geek out over code? Drop me a line:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
 
----
-
 ## 👀 Visitor Counter
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
 <img src="https://komarev.com/ghpvc/?username=kamalkolisetty&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
-
 <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="Team Vibes" width="280"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
-Thanks for swinging by! Let’s team up and build something out-of-this-world! 🌈
+Thanks for visiting! Ready to team up and build something epic? 🌈 Let’s make some coding magic together!
 </div>
