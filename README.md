@@ -13,7 +13,7 @@
 
 ## 🤗 About Me
 <p align="center">
-  <img src="https://media.tenor.com/xr5Y7mItg8oAAAAi/peahc-and-goma-hug.gif" alt="Peach Hug" width="180"/>
+  <img src="https://media1.tenor.com/m/1Mi4YlQ0aCYAAAAd/peach-goma.gif" alt="Peach & Goma Hug" width="180"/>
 </p>
 
 - 🔥 Always curious, always building!  
@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 <p align="center">
-  <img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Penguin" width="180"/>
+  <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif" alt="Work Penguin" width="180"/>
 </p>
 
 ### 📍 DestNotify - Your Travel Wingman
