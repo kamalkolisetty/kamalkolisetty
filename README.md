@@ -1,10 +1,11 @@
-# 🌟 Yo, I'm Kamal Kumar Kolisetty! 🌟
+<img width="498" height="441" alt="image" src="https://github.com/user-attachments/assets/05157440-87e4-4f39-b623-50b4e08df999" /># Kamal Kumar Kolisetty
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="380"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B" alt="Hi Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 20px;">
-🚀 Hey there! I'm a brand new <b>BTech grad in Computer Science</b> bringing energy and creativity to every project. From <i>AI-powered math solvers</i> to <i>travel-smart apps</i>, my code is all about making life smarter (and cooler!).
+🚀 Welcome! I am a recent BTech graduate in Computer Science, passionate about delivering impactful solutions through innovative technology. My portfolio reflects a strong foundation in software development—from AI-driven applications to intelligent travel platforms—focused on making everyday life smarter and more efficient.
 </div>
+
 <br><br>
 
 <div style="background-color: #16213e; padding: 10px; border-radius: 10px; margin-top: 10px;">
@@ -19,98 +20,87 @@
 </a>
 </div>
 
-## 📌 Discover My Creations
+## Portfolio Highlights
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
-Curious what I have been building? ✨ Scroll through my <b>featured projects</b> below—these are my passion projects!
-  Dive even deeper on my <a href="https://github.com/kamalkolisetty?tab=repositories">GitHub Repositories</a>.
+Curious about my work? Explore some featured projects below and see more on my <a href="https://github.com/kamalkolisetty?tab=repositories">GitHub repositories</a>.
 </div>
 
 <img src="https://media.tenor.com/2W1HWRt5ySUAAAAd/work-internet-computer.gif" alt="Coding Vibes" width="280"/>
 
-## 🌟 Featured Projects
-
-### 📍 DestNotify – Your Smart Travel Wingman
+### DestNotify – Smart Travel Assistant
 
 <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Ever missed your stop vibing to music? <b>DestNotify</b> makes sure you never lose your way again! This sleek Progressive Web App pings location alerts, serves up local eats, and even suggests trending movies—with a pinch of AI magic.
-
-**Tech Stack:** JavaScript, PWA, Google Maps API, Gemini AI, EmailJS  
- 
-
-👉 [Try It Live](https://destnotify-prod-v2.netlify.app/)  
-👉 [Grab the Code](https://github.com/kamalkolisetty/DestNotify)
+DestNotify is a Progressive Web App engineered to elevate your travel experience. It delivers real-time location alerts, curated local dining suggestions, and trending movie recommendations using AI.  
+<strong>Technologies:</strong> JavaScript • PWA • Google Maps API • Gemini AI • EmailJS  
+<a href="https://destnotify-prod-v2.netlify.app/">Try it Live</a> | <a href="https://github.com/kamalkolisetty/DestNotify">View Source</a>
 </div>
 
-### ✍️ WindowsToo – Math, Solved. Fun Included!
+### WindowsToo – Interactive Math Solver
 
 <img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Who says math can't be fun? With <b>WindowsToo</b>, you sketch a problem and instantly see the solution! Smooth React UI + AI-powered backend means clean answers for algebra, calculus, and more.
-
-**Tech Stack:** React.js, Vite, TypeScript, Python, FastAPI, Gemini AI, MathJax  
-
-
-👉 [Watch Demo](https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view)  
-👉 [Unlock the Code](https://github.com/kamalkolisetty/kamal-windowsToo)
+WindowsToo transforms mathematics into an engaging experience. Users sketch math problems and instantly receive clear, step-by-step AI-powered solutions across algebra, calculus, and beyond.
+<strong>Technologies:</strong> React.js • Vite • TypeScript • Python • FastAPI • Gemini AI • MathJax  
+<a href="https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view">Demo Video</a> | <a href="https://github.com/kamalkolisetty/kamal-windowsToo">Source Code</a>
 </div>
 
-### 📚 BookWorm’s Paradise – The Ultimate Digital Bookshelf
+### BookWorm’s Paradise – Digital Bookshelf Platform
 
 <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookWorm's Paradise" width="300"/>
 
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
-Dream of a cozy digital library? <b>BookWorm’s Paradise</b> delivers a slick book organizing hub—secure logins, buttery React UI, and a robust backend for true bookworms.
-
-**Tech Stack:** React, Vite, Tailwind, Node.js, Express, MongoDB, Mongoose  
-  
-
-👉 [Dive into Code](https://github.com/kamalkolisetty/BookStore)
+BookWorm’s Paradise is a secure, user-friendly platform for organizing digital libraries. Featuring responsive UI and a robust backend tailored for book enthusiasts.
+<strong>Technologies:</strong> React • Vite • Tailwind • Node.js • Express • MongoDB • Mongoose  
+<a href="https://github.com/kamalkolisetty/BookStore">Source Code</a>
 </div>
 
-## 🛠️ My Tech Toolkit
+## Technical Skills
 
 <div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 36px;">
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills"/>
-
-- **Languages:** Python, JavaScript, Java, C, C++, SQL  
-- **Frameworks:** React.js, Node.js (Express.js), Flask  
-- **Styling:** HTML5, CSS3, Tailwind, Bootstrap, Responsive Design  
-- **Data:** MySQL (Query Guru), MongoDB (Document Master)  
-- **Tools:** Git, GitHub, VS Code, WordPress  
-- **Strengths:** Data Structures & Algorithms, OOP, Computer Networks  
-- **Bonus:** Machine Learning, Data Analysis (Excel, Pivot Tables)
+<ul>
+<li><strong>Languages:</strong> Python, JavaScript, Java, C, C++, SQL</li>
+<li><strong>Frameworks:</strong> React.js, Node.js (Express.js), Flask</li>
+<li><strong>Styling:</strong> HTML5, CSS3, Tailwind, Bootstrap, Responsive Design</li>
+<li><strong>Databases:</strong> MySQL, MongoDB</li>
+<li><strong>Tools:</strong> Git, GitHub, VS Code, WordPress</li>
+<li><strong>Strengths:</strong> Data Structures, Algorithms, OOP, Computer Networks</li>
+<li><strong>Bonus Expertise:</strong> Machine Learning, Data Analysis (Excel, Pivot Tables)</li>
+</ul>
 </div>
 
-## 💬 Let’s Connect!
+## Connect With Me
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
-Got an idea to share or want to geek out about tech?  
-  <br>
-Drop me a line: 📧 <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarkolisetty@gmail.com</a>
+Interested in collaborating or discussing technology? Let’s connect! <br>
+Email: <a href="mailto:kamalkumarkolisetty@gmail.com">kamalkumarkolisetty@gmail.com</a>
 </div>
-  <br>
 
-<img src="https://media.tenor.com/YDns1kCTW5sAAAAi/peahc-and-goma-hug.gif" alt="Peach & Goma Hug" width="380"/>
+<br>
 
-## 📊 GitHub Stats
+<img src="https://media.tenor.com/yboQJDin_H8AAAAi/curiouspiyuesh-piyueshmodi.gif" alt="Peach & Goma Hug" width="380"/>
+
+## GitHub Analytics
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkolisetty&theme=radical" alt="GitHub Streak" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
 
-## 👀 Visitor Counter
+## Visitor Counter
 
 <div style="background-color: #0f3460; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 18px;">
 <img src="https://komarev.com/ghpvc/?username=kamalkolisetty&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
+
 <hr>
+
 <img src="https://media.tenor.com/JmFLq6j8DWEAAAAM/cat-sticker-line-sticker.gif" alt="Team Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 18px;">
-Thanks for visiting! Ready to team up and build something epic? 🌈 Let’s make some coding magic together!
+Thank you for visiting! If you’re ready to build impactful solutions or explore innovative projects, let’s connect and create something remarkable.
 </div>
