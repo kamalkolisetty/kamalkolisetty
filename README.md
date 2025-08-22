@@ -1,6 +1,6 @@
-<img width="498" height="441" alt="image" src="https://github.com/user-attachments/assets/05157440-87e4-4f39-b623-50b4e08df999" /># Kamal Kumar Kolisetty
+# Kamal Kumar Kolisetty
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B" alt="Hi Vibes" width="380"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="380"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 20px;">
 🚀 Welcome! I am a recent BTech graduate in Computer Science, passionate about delivering impactful solutions through innovative technology. My portfolio reflects a strong foundation in software development—from AI-driven applications to intelligent travel platforms—focused on making everyday life smarter and more efficient.
