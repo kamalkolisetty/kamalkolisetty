@@ -1,14 +1,13 @@
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z3ZGxqem9mcTJ0NmRkZ21td3lpN3RnOTNsdmJndTFmOW9wamVlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hi Vibes" width="380"/>
-
 # 👋 Hello, I'm Kamal Kumar Kolisetty! 🚀
+
+<img src="https://media.tenor.com/TRUdEbUZ6SMAAAAm/hello-hi.webp" alt="Hi Vibes" width="420"/>
 
 <div style="background-color: #1a1a2e; padding: 15px; border-radius: 10px; color: #e94560; font-size: 24px;">
   
 🎓 Welcome! I am a B.Tech graduate in Computer Science, passionate about creating impactful, user-centered solutions through innovative technology. My portfolio highlights a strong foundation in full-stack development and AI, with projects that solve real-world problems and enhance how we interact with technology.
 </div>
 
-<br><br>
+ 
 
 <div style="background-color: #16213e; padding: 10px; border-radius: 10px; margin-top: 10px; font-size: 22px;">
 <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank">
@@ -33,8 +32,8 @@
 <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="300"/>
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
 DestNotify is a Progressive Web App designed to enhance your travel experience. Receive real-time location alerts, discover local dining, and get trending entertainment recommendations—all powered by AI.
-<br><br>
-<strong>Technologies:</strong> JavaScript • PWA • Google Maps API • Gemini AI • EmailJS  
+<br> 
+<strong>Technologies:</strong> JavaScript • PWA • Google Maps API • Gemini AI • EmailJS  &nbsp;
 <a href="https://destnotify-prod-v2.netlify.app/">Try it Live</a> | <a href="https://github.com/kamalkolisetty/DestNotify">View Source</a>
 </div>
 
@@ -42,8 +41,8 @@ DestNotify is a Progressive Web App designed to enhance your travel experience. 
 <img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="300"/>
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
 Turn math challenges into learning moments! WindowsToo lets users sketch math problems and instantly receive step-by-step AI-powered solutions—for algebra, calculus, and more.
-<br><br>
-<strong>Technologies:</strong> React.js • Vite • TypeScript • Python • FastAPI • Gemini AI • MathJax  
+<br> 
+<strong>Technologies:</strong> React.js • Vite • TypeScript • Python • FastAPI • Gemini AI • MathJax  &nbsp;
 <a href="https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view">Demo Video</a> | <a href="https://github.com/kamalkolisetty/kamal-windowsToo">Source Code</a>
 </div>
 
@@ -51,8 +50,8 @@ Turn math challenges into learning moments! WindowsToo lets users sketch math pr
 <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookWorm's Paradise" width="300"/>
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
 BookWorm’s Paradise provides a secure, user-friendly digital library space. Responsive UI and robust backend make it a haven for book lovers.
-<br><br>
-<strong>Technologies:</strong> React • Vite • Tailwind • Node.js • Express • MongoDB • Mongoose  
+<br> 
+<strong>Technologies:</strong> React • Vite • Tailwind • Node.js • Express • MongoDB • Mongoose  &nbsp;
 <a href="https://github.com/kamalkolisetty/BookStore">Source Code</a>
 </div>
 
