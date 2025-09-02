@@ -4,7 +4,7 @@
 <div style="background-color: #1a1a2e; padding: 25px; border-radius: 15px; color: #e94560; font-size: 28px; font-weight: 700;">
 🎓 A passionate B.Tech Computer Science Graduate driven by innovation and creating user-centric solutions that make a difference. I specialize in full-stack development and AI-powered projects designed to solve real-world challenges.
 </div>
-
+<br>
 <div style="background-color: #16213e; padding: 20px; border-radius: 15px; margin-top: 20px; font-size: 26px;">
 <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank" style="margin-right: 12px;">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,14 +31,10 @@ Curious about what I've built? Explore highlighted projects below or check out m
 
 <img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="400" style="border-radius: 15px; margin-bottom: 18px;" />
 
-DestNotify is a Progressive Web App that transforms your travel journey—offering real-time location alerts, local dining recommendations, and trending entertainment tips powered by AI.
+DestNotify is a Progressive Web App that transforms your travel journey offering real-time location alerts, local dining recommendations, and trending entertainment tips powered by AI.
 
 **Tech Stack:**
-- <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" style="vertical-align: middle;" /> JavaScript  
-- 🌐 PWA  
-- <img src="https://skillicons.dev/icons?i=googlemaps" alt="Google Maps" height="48" style="vertical-align: middle;" /> Google Maps API  
-- 🤖 Gemini AI  
-- ✉️ EmailJS
+JavaScript • PWA • Google Maps API • Gemini AI • EmailJS<br />
 
 [Live Demo](https://destnotify-prod-v2.netlify.app/) | [Source Code](https://github.com/kamalkolisetty/DestNotify)
 
@@ -51,10 +47,12 @@ DestNotify is a Progressive Web App that transforms your travel journey—offeri
 SnapSolve.ai brings your sketches to life! Instantly solve math problems, physics diagrams, chemistry equations, poetry, and abstract ideas with AI-powered step-by-step explanations.
 
 **Tech Stack:**
-- <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" style="vertical-align: middle;" /> React.js  
-- <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="48" style="vertical-align: middle;" /> Vite  
-- <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" style="vertical-align: middle;" /> TypeScript  
-- <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48" style="vertical-align: middle;" /> FastAPI  
+- <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" style="vertical-align: middle;" />  &nbsp;  
+ <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="48" style="vertical-align: middle;" />    &nbsp;  
+ <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" style="vertical-align: middle;" />&nbsp;  
+  <img src="https://skillicons.dev/icons?i=mongodb,mongoose" alt="MongoDB, Mongoose" height="48" style="vertical-align: middle;" /> &nbsp;  
+
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48" style="vertical-align: middle;" />    
 - 🤖 Google Gemini 1.5  
 - MathJax  
 - Tailwind CSS
@@ -70,12 +68,12 @@ SnapSolve.ai brings your sketches to life! Instantly solve math problems, physic
 A secure, intuitive platform for book lovers with responsive design and a robust backend.
 
 **Tech Stack:**
-- <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" style="vertical-align: middle;" /> React  
-- <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="48" style="vertical-align: middle;" /> Vite  
-- <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="48" style="vertical-align: middle;" /> Tailwind CSS  
-- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="48" style="vertical-align: middle;" /> Node.js  
-- <img src="https://skillicons.dev/icons?i=express" alt="Express" height="48" style="vertical-align: middle;" /> Express  
-- <img src="https://skillicons.dev/icons?i=mongodb,mongoose" alt="MongoDB, Mongoose" height="48" style="vertical-align: middle;" /> MongoDB & Mongoose
+- <img src="https://skillicons.dev/icons?i=react" alt="React" height="68" style="vertical-align: middle;" /> &nbsp;  
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="68" style="vertical-align: middle;" /> &nbsp;    
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="68" style="vertical-align: middle;" /> &nbsp;  
+ <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="68" style="vertical-align: middle;" /> &nbsp;   
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="68" style="vertical-align: middle;" /> &nbsp;   
+  <img src="https://skillicons.dev/icons?i=mongodb,mongoose" alt="MongoDB, Mongoose" height="68" style="vertical-align: middle;" /> &nbsp;  
 
 [Source Code](https://github.com/kamalkolisetty/BookStore)
 
@@ -114,7 +112,7 @@ Passionate about collaboration or want to talk tech? Feel free to reach out!<br 
 ## 📊 GitHub Stats & Activity
 
 <div style="background-color: #0f3460; padding: 25px; border-radius: 15px; color: #ffffff; font-size: 22px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com/?user=kamalkolisetty" alt="GitHub Streak" height="160" />
+  [<img src="https://streak-stats.demolab.com/?user=kamalkolisetty" alt="GitHub Streak" height="160" />](https://streak-stats.demolab.com/?user=kamalkolisetty)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </div>
 
