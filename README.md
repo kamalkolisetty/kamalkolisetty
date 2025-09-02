@@ -1,5 +1,4 @@
 # 👋 Hey there! I'm Kamal Kumar Kolisetty 🚀
-
 ![Hi Vibes](https://media.tenor.com/TRUdEbUZ6SMAAAAm/hello-hi.webp)
 
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 12px; color: #e94560; font-size: 24px; font-weight: 600;">
@@ -34,7 +33,8 @@ Curious about what I've built? Explore highlighted projects below or check out m
 
 <div style="background-color: #16213e; padding: 20px; border-radius: 12px; color: #ffffff; font-size: 20px;">
 DestNotify is a Progressive Web App that transforms your travel journey—offering real-time location alerts, local dining recommendations, and trending entertainment tips powered by AI.<br />
-<strong>Tech Stack:</strong> JavaScript • PWA • Google Maps API • Gemini AI • EmailJS<br />
+<strong>Tech Stack:</strong><br />
+<img src="https://skillicons.dev/icons?i=js,pwa" alt="JavaScript, PWA" height="24" /> JavaScript • 🌐 PWA • <img src="https://skillicons.dev/icons?i=googlemaps" alt="Google Maps" height="24" /> Google Maps API • 🤖 Gemini AI • ✉️ EmailJS<br />
 <a href="https://destnotify-prod-v2.netlify.app/" target="_blank" style="color:#e94560; font-weight: 600;">Live Demo</a> | <a href="https://github.com/kamalkolisetty/DestNotify" target="_blank" style="color:#e94560; font-weight: 600;">Source Code</a>
 </div>
 
@@ -43,8 +43,9 @@ DestNotify is a Progressive Web App that transforms your travel journey—offeri
 <img src="https://github.com/kamalkolisetty/SnapSolve.ai/raw/main/wtoo/3.png" alt="SnapSolve.ai" width="300" style="border-radius: 10px;" />
 
 <div style="background-color: #16213e; padding: 20px; border-radius: 12px; color: #ffffff; font-size: 20px;">
-SnapSolve.ai brings your sketches to life! Instantly solve math problems, physics diagrams, chemistry equations, poetry, and abstract ideas with AI-powered step-by-step explanations. Featuring a nostalgic Windows-style theme for a uniquely fun experience.<br />
-<strong>Tech Stack:</strong> React.js • Vite • TypeScript • FastAPI • Google Gemini 1.5 • MathJax • Tailwind CSS<br />
+SnapSolve.ai brings your sketches to life! Instantly solve math problems, physics diagrams, chemistry equations, poetry, and abstract ideas with AI-powered step-by-step explanations.<br />
+<strong>Tech Stack:</strong><br />
+<img src="https://skillicons.dev/icons?i=react,vite,ts,fastapi" alt="React, Vite, TypeScript, FastAPI" height="24" /> React.js • Vite • TypeScript • FastAPI • 🤖 Google Gemini 1.5 • MathJax • Tailwind CSS<br />
 <a href="https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view" target="_blank" style="color:#e94560; font-weight: 600;">Watch Demo</a> | <a href="https://github.com/kamalkolisetty/snapsolve.ai" target="_blank" style="color:#e94560; font-weight: 600;">Source Code</a>
 </div>
 
@@ -54,7 +55,8 @@ SnapSolve.ai brings your sketches to life! Instantly solve math problems, physic
 
 <div style="background-color: #16213e; padding: 20px; border-radius: 12px; color: #ffffff; font-size: 20px;">
 A secure, intuitive platform for book lovers with responsive design and a robust backend.<br />
-<strong>Tech Stack:</strong> React • Vite • Tailwind • Node.js • Express • MongoDB • Mongoose<br />
+<strong>Tech Stack:</strong><br />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mongoose" alt="React, Vite, Tailwind, Node.js, Express, MongoDB, Mongoose" height="24" /><br />
 <a href="https://github.com/kamalkolisetty/BookStore" target="_blank" style="color:#e94560; font-weight: 600;">Source Code</a>
 </div>
 
@@ -65,13 +67,13 @@ A secure, intuitive platform for book lovers with responsive design and a robust
 <div style="background-color: #0f3460; padding: 30px; border-radius: 12px; color: #ffffff; font-size: 38px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=12" alt="Skills" />
 <ul style="font-size: 24px; list-style: none; padding: 0; margin-top: 20px;">
-  <li><strong>Languages:</strong> Python, JavaScript, Java, C, C++, SQL</li>
-  <li><strong>Frameworks:</strong> React.js, Node.js (Express), Flask</li>
-  <li><strong>Styling:</strong> HTML5, CSS3, Tailwind, Bootstrap, Responsive Design</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB</li>
-  <li><strong>Tools:</strong> Git, GitHub, VS Code, WordPress</li>
-  <li><strong>Core Strengths:</strong> Data Structures, Algorithms, OOP, Computer Networks</li>
-  <li><strong>Additional Expertise:</strong> Machine Learning, Data Analysis (Excel, Pivot Tables)</li>
+  <li>🐍 <strong>Languages:</strong> Python, JavaScript, Java, C, C++, SQL</li>
+  <li>⚛️ <strong>Frameworks:</strong> React.js, Node.js (Express), Flask</li>
+  <li>🎨 <strong>Styling:</strong> HTML5, CSS3, Tailwind, Bootstrap, Responsive Design</li>
+  <li>🗄️ <strong>Databases:</strong> MySQL, MongoDB</li>
+  <li>💻 <strong>Tools:</strong> Git, GitHub, VS Code, WordPress</li>
+  <li>🧠 <strong>Core Strengths:</strong> Data Structures, Algorithms, OOP, Computer Networks</li>
+  <li>📊 <strong>Additional Expertise:</strong> Machine Learning, Data Analysis (Excel, Pivot Tables)</li>
 </ul>
 </div>
 
@@ -93,7 +95,7 @@ Passionate about collaboration or want to talk tech? Feel free to reach out!<br 
 ## 📊 GitHub Stats & Activity
 
 <div style="background-color: #0f3460; padding: 20px; border-radius: 12px; color: #ffffff; font-size: 20px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkolisetty&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=kamalkolisetty" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
