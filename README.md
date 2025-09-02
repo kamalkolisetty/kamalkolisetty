@@ -50,9 +50,9 @@ JavaScript • PWA • Google Maps API • Gemini AI • EmailJS<br />
 Turn sketches into solutions! Solve math, physics, chemistry, poetry, and abstract ideas with AI-driven step-by-step explanations.
 
 **Tech Stack:**  
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=react,vite,ts,mongodb,fastapi,tailwind" height="40" style="vertical-align: middle;" />  
-<strong>• Google Gemini 1.5</strong>
+<strong>• Google Gemini 1.5</strong> <br>
 <strong>• MathJax </strong>
 
 [Watch Demo](https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view) | [Source Code](https://github.com/kamalkolisetty/snapsolve.ai)
@@ -67,15 +67,16 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 
 **Tech Stack:**  
 <br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" height="40" style="vertical-align: middle;" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" height="40" style="vertical-align: middle;" /><br>
 [Source Code](https://github.com/kamalkolisetty/BookStore)
 
 ---
 
 ## 💻 Technical Skills
 
+
 <div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 18px; margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="60" style="margin: 15px 0;" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="70" style="margin: 15px 0;" />
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 16px;">
     <li><b>Languages:</b> Python, JavaScript, Java, C, C++, SQL</li>
     <li><b>Frameworks:</b> React, Node.js (Express), Flask</li>
@@ -85,7 +86,7 @@ A secure, intuitive platform for book lovers with a responsive design and robust
     <li><b>Core Strengths:</b> Data Structures, Algorithms, OOP, Computer Networks</li>
     <li><b>Additional Expertise:</b> Machine Learning, Data Analysis (Excel, Pivot Tables)</li>
   </ul>
-</div>
+</div> 
 
 ---
 
@@ -106,7 +107,9 @@ Love collaboration or want to chat tech? Reach out!<br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" width="290" height="170" />
 
 &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&layout=compact&theme=radical" alt="GitHub Streak"  height="170" />
+   <a href="https://github.com/kamalkolisetty" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&layout=compact&theme=radical" alt="GitHub Streak" height="170" />
+  </a>
 </div>
 
 ---
