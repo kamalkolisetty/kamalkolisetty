@@ -5,6 +5,7 @@
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #e94560; font-size: 20px; font-weight: bold; margin: 20px 0;">
 🎓 A passionate B.Tech Computer Science Graduate crafting innovative, user-centric solutions. Specializing in full-stack development and AI-powered projects to solve real-world challenges.
 </div>
+<br>
 
 <div style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/kamal-kumar-kolisetty-19b944221" target="_blank" style="margin: 0 10px;">
@@ -99,9 +100,8 @@ Love collaboration or want to chat tech? Reach out!<br />
 ## 📊 GitHub Stats & Activity
 
 <div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 16px; margin: 20px 0;">
-  <a href="https://github.com/kamalkolisetty" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&theme=radical" alt="GitHub Streak" height="150" />
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=kamalkolisetty" alt="GitHub Streak" height="150" />
+&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
