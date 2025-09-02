@@ -66,7 +66,7 @@ Turn sketches into solutions! Solve math, physics, chemistry, poetry, and abstra
 A secure, intuitive platform for book lovers with a responsive design and robust backend.
 
 **Tech Stack:**  
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" height="40" style="vertical-align: middle;" /><br>
 [Source Code](https://github.com/kamalkolisetty/BookStore)
 
@@ -75,8 +75,7 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 ## 💻 Technical Skills
 
 
-<div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 18px; margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="70" style="margin: 15px 0;" />
+<img style="cursor:pointer;" src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="110" style="margin: 15px 0;" />
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 16px;">
     <li><b>Languages:</b> Python, JavaScript, Java, C, C++, SQL</li>
     <li><b>Frameworks:</b> React, Node.js (Express), Flask</li>
@@ -104,7 +103,7 @@ Love collaboration or want to chat tech? Reach out!<br />
 ## 📊 GitHub Stats & Activity
 
 <div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 16px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" width="290" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" width="240" height="170" />
 
 &nbsp;
    <a href="https://github.com/kamalkolisetty" target="_blank">
