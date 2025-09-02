@@ -37,13 +37,14 @@ DestNotify is a Progressive Web App designed to enhance your travel experience. 
 <a href="https://destnotify-prod-v2.netlify.app/">Try it Live</a> | <a href="https://github.com/kamalkolisetty/DestNotify">View Source</a>
 </div>
 
-### 📐 WindowsToo – Interactive Math Solver
-<img src="https://github.com/kamalkolisetty/kamal-windowsToo/raw/main/2w.png" alt="WindowsToo" width="300"/>
+### 🎨 SnapSolve.ai – Interactive Creativity Solver
+![SnapSolve.ai](https://github.com/kamalkolisetty/SnapSolve.ai/raw/main/wtoo/3.png)
+
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
-Turn math challenges into learning moments! WindowsToo lets users sketch math problems and instantly receive step-by-step AI-powered solutions—for algebra, calculus, and more.
+Turn sketches into brilliance with SnapSolve.ai! Draw math problems, physics diagrams, chemistry equations, poetry, or abstract ideas, and get instant AI-powered, step-by-step solutions. With a nod to its WindowsToo roots and a Windows-style favicon 🪟, it’s your playful playground for learning and creativity.
 <br> 
-<strong>Technologies:</strong> React.js • Vite • TypeScript • Python • FastAPI • Gemini AI • MathJax  &nbsp;
-<a href="https://drive.google.com/file/d/1u9SXeHG-7whiAqtuMKyySofwMUxIEvGJ/view">Demo Video</a> | <a href="https://github.com/kamalkolisetty/kamal-windowsToo">Source Code</a>
+**Technologies:** React.js • Vite • TypeScript • FastAPI • Google Gemini 1.5 Flash • MathJax • Tailwind CSS &nbsp;
+[Demo Video](https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view) | [Source Code](https://github.com/kamalkolisetty/snapsolve.ai)
 </div>
 
 ### 📚 BookWorm’s Paradise – Digital Bookshelf Platform
