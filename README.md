@@ -39,13 +39,13 @@ DestNotify is a Progressive Web App designed to enhance your travel experience. 
 
 ### 🎨 SnapSolve.ai – Interactive Creativity Solver
 ![SnapSolve.ai](https://github.com/kamalkolisetty/SnapSolve.ai/raw/main/wtoo/3.png)
-
 <div style="background-color: #16213e; padding: 15px; border-radius: 10px; color: #ffffff; font-size: 20px;">
-Turn sketches into brilliance with SnapSolve.ai! Draw math problems, physics diagrams, chemistry equations, poetry, or abstract ideas, and get instant AI-powered, step-by-step solutions. With a nod to its WindowsToo roots and a Windows-style favicon 🪟, it’s your playful playground for learning and creativity.
-<br> 
-**Technologies:** React.js • Vite • TypeScript • FastAPI • Google Gemini 1.5 Flash • MathJax • Tailwind CSS &nbsp;
-[Demo Video](https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view) | [Source Code](https://github.com/kamalkolisetty/snapsolve.ai)
+SnapSolve.ai transforms sketches into solutions! Simply draw math problems, physics diagrams, chemistry equations, poetry, or abstract ideas—SnapSolve.ai delivers instant, step-by-step results powered by AI. Inspired by its WindowsToo legacy, the app sports a Windows-style favicon 🪟, creating a fun and creative playground for learners and creators.
+<br>
+<strong>Technologies:</strong> React.js • Vite • TypeScript • FastAPI • Google Gemini 1.5 Flash • MathJax • Tailwind CSS &nbsp;
+<a href="https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view">Demo Video</a> | <a href="https://github.com/kamalkolisetty/snapsolve.ai">Source Code</a>
 </div>
+
 
 ### 📚 BookWorm’s Paradise – Digital Bookshelf Platform
 <img src="https://github.com/kamalkolisetty/BookStore/raw/main/c6.png" alt="BookWorm's Paradise" width="300"/>
