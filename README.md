@@ -36,6 +36,7 @@ Explore my work below or visit my <a href="https://github.com/kamalkolisetty?tab
 DestNotify is a Progressive Web App that transforms your travel journey offering real-time location alerts, local dining recommendations, and trending entertainment tips powered by AI.
 
 **Tech Stack:**
+<br>
 JavaScript • PWA • Google Maps API • Gemini AI • EmailJS<br />
 
 [Live Demo](https://destnotify-prod-v2.netlify.app/) | [Source Code](https://github.com/kamalkolisetty/DestNotify)
@@ -49,8 +50,10 @@ JavaScript • PWA • Google Maps API • Gemini AI • EmailJS<br />
 Turn sketches into solutions! Solve math, physics, chemistry, poetry, and abstract ideas with AI-driven step-by-step explanations.
 
 **Tech Stack:**  
-<img src="https://skillicons.dev/icons?i=react,vite,ts,mongodb,fastapi" height="40" style="vertical-align: middle;" />  
-Google Gemini 1.5 • MathJax • Tailwind CSS
+<br>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,mongodb,fastapi,tailwind" height="40" style="vertical-align: middle;" />  
+<strong>• Google Gemini 1.5</strong>
+<strong>• MathJax </strong>
 
 [Watch Demo](https://drive.google.com/file/d/1CFd3Oou9HO4tmP79kJpBWyM7HsB82khc/view) | [Source Code](https://github.com/kamalkolisetty/snapsolve.ai)
 
@@ -63,8 +66,8 @@ Google Gemini 1.5 • MathJax • Tailwind CSS
 A secure, intuitive platform for book lovers with a responsive design and robust backend.
 
 **Tech Stack:**  
+<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" height="40" style="vertical-align: middle;" />
-
 [Source Code](https://github.com/kamalkolisetty/BookStore)
 
 ---
@@ -100,9 +103,10 @@ Love collaboration or want to chat tech? Reach out!<br />
 ## 📊 GitHub Stats & Activity
 
 <div style="background-color: #0f3460; padding: 20px; border-radius: 10px; color: #ffffff; font-size: 16px; margin: 20px 0;">
-    <img src="https://streak-stats.demolab.com/?user=kamalkolisetty" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" width="290" height="170" />
+
 &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&layout=compact&theme=radical" alt="GitHub Streak"  height="170" />
 </div>
 
 ---
