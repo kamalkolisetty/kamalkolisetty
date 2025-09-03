@@ -75,7 +75,7 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 ## 💻 Technical Skills
 
 
-<img style="cursor:pointer;" src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="180" style="margin: 15px 0;" />
+<img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="180" style="margin: 20px 0;" />
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 16px;">
     <li><b>Languages:</b> Python, JavaScript, Java, C, C++, SQL</li>
     <li><b>Frameworks:</b> React, Node.js (Express), Flask</li>
