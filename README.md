@@ -106,11 +106,11 @@ Love collaboration or want to chat tech? Reach out!<br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkolisetty&layout=compact&theme=radical" alt="Top Languages"  height="170" />
 
  
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkolisetty" 
+ 
+  <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme" 
        alt="GitHub Streak" 
        onerror="this.onerror=null; this.src='https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme';" />
-</a>
+ 
 
 </div>
 
