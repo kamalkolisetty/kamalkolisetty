@@ -75,7 +75,7 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 ## 💻 Technical Skills
 
 
-<img style="cursor:pointer;" src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="150" style="margin: 15px 0;" />
+<img style="cursor:pointer;" src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="180" style="margin: 15px 0;" />
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 16px;">
     <li><b>Languages:</b> Python, JavaScript, Java, C, C++, SQL</li>
     <li><b>Frameworks:</b> React, Node.js (Express), Flask</li>
@@ -107,12 +107,11 @@ Love collaboration or want to chat tech? Reach out!<br />
 
  
  
-<a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkolisetty" 
        alt="GitHub Streak" 
        onerror="this.onerror=null; this.src='https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme'; 
        if(this.src.includes('demolab')) this.src='https://github-readme-stats.vercel.app/api?username=kamalkolisetty&show_icons=true';" />
-</a>
+ 
 </div>
 
 ---
