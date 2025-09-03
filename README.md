@@ -31,7 +31,7 @@ Explore my work below or visit my <a href="https://github.com/kamalkolisetty?tab
 
 ### ✈️ DestNotify – Your Smart Travel Companion
 
-<img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="400" style="border-radius: 15px; margin-bottom: 18px;" />
+<img src="https://github.com/kamalkolisetty/DestNotify/raw/main/x2.png" alt="DestNotify" width="500" style="border-radius: 16px; margin-bottom: 18px;" />
 
 DestNotify is a Progressive Web App that transforms your travel journey offering real-time location alerts, local dining recommendations, and trending entertainment tips powered by AI.
 
@@ -109,7 +109,7 @@ Love collaboration or want to chat tech? Reach out!<br />
  
   <img src="https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme" 
        alt="GitHub Streak" 
-       onerror="this.onerror=null; this.src='https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme';" />
+       onerror="this.onerror=null; this.src='https://streak-stats.demolab.com/?user=kamalkolisetty&theme=holi-theme';"   height="170" />
  
 
 </div>
