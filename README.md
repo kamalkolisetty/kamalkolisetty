@@ -74,7 +74,6 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 
 ## 💻 Technical Skills
 
-
 <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,nodejs,express,flask,html,css,tailwind,bootstrap,mysql,mongodb,git,github,vscode,wordpress&perline=10" alt="Skills" height="180" style="margin: 20px 0;" />
   <ul style="list-style-type: disc; padding-left: 20px; font-size: 16px;">
     <li><b>Languages:</b> Python, JavaScript, Java, C, C++, SQL</li>
@@ -93,7 +92,8 @@ A secure, intuitive platform for book lovers with a responsive design and robust
 
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #e94560; font-size: 18px; margin: 20px 0;">
 Love collaboration or want to chat tech? Reach out!<br />
-✉️ <a href="mailto:kamalkumarkolisetty@gmail.com" style="color: #e94560; font-weight: bold;">kamalkumarkolisetty@gmail.com</a>
+✉️ <a href="mailto:kamalkumarkolisetty@gmail.com" style="color: #e94560; font-weight: bold;">kamalkumarkolisetty@gmail.com</a><br />
+📄 <a href="https://kamalkumar-kolisetty-resume.tiiny.site/" style="color: #e94560; font-weight: bold;" target="_blank">View My Resume</a>
 </div>
 
 <img src="https://media.tenor.com/yboQJDin_H8AAAAi/curiouspiyuesh-piyueshmodi.gif" alt="Curious Pikachu" width="300" style="margin: 20px 0;" />
@@ -129,3 +129,7 @@ Love collaboration or want to chat tech? Reach out!<br />
 <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #e94560; font-size: 18px; margin: 20px 0;">
 Thanks for visiting! Ready to build impactful solutions together? Let’s connect and create something amazing! 🚀🌈
 </div>
+
+<!-- RESUME LINK
+url: https://kamalkumar-kolisetty-resume.tiiny.site/
+-->
