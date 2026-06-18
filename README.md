@@ -131,7 +131,7 @@ Thanks for visiting! Ready to build impactful solutions together? Let’s connec
 </div>
 
 <!-- RESUME LINK
-url: https://kamalkumar-kolisetty-resume.tiiny.site/
+url:  https://kamal-kumar-kolisetty-resume.tiiny.site/
 -->
 
 
